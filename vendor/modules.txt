@@ -482,3 +482,4 @@ honnef.co/go/tools/unused
 honnef.co/go/tools/unused/typemap
 # gitlab.com/yawning/obfs4.git => github.com/jmwample/obfs4 v0.0.0-20230725223418-2d2e5b4a16ba
 # github.com/pion/dtls/v2 => github.com/mingyech/dtls/v2 v2.0.0
+# github.com/lucas-clemente/quic-go => github.com/Psiphon-Labs/quic-go v0.0.0-20230626192210-73f29effc9da
